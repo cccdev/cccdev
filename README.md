@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently living in **Shanghai**
 
-- 🌱 I’m currently learning **Typescipt, Vue3 and vite**
+- 🌱 I’m currently learning **Typescript, Vue3 and vite**
 
 - 📫 How to reach me **lugentle66@gmail.com**
 
