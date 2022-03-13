@@ -5,9 +5,13 @@
 
 - 🌱 I’m currently learning **Typescript, Vue3 and vite**
 
+- 💬 My WeChat is **Kenshi678**
+
 - 📫 How to reach me **lugentle66@gmail.com**
 
 - ⚡ Just **always focus on programming**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
