@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently living in **Shanghai**
 
-- 🌱 I’m currently learning **Typescript, Vue3 and vite**
+- 🌱 I’m currently learning **Typescript, React and Vite**
 
 - 💬 My WeChat is **Kenshi678**
 
