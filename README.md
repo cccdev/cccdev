@@ -1,22 +1,11 @@
-<h1 align="center">Hi 👋, I'm rolandLu</h1>
-<h3 align="center">A frontend developer from China</h3>
-
-- 🔭 I’m currently living in **Shanghai**
-
-- 🌱 I’m currently learning **Typescript, React and Vite**
-
-- 💬 My WeChat is **Kenshi678**
-
-- 📫 How to reach me **lugentle66@gmail.com**
+<h1 align="center">Hi 👋, I'm Roland Lu</h1>
+<h3 align="center">Typescript Enjoyer</h3>
 
 - ⚡ Just **always focus on programming**
 
+- 🍹 Information is important
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/cccdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="cccdev" height="30" width="40" /></a>
-<a href="https://twitter.com/jerryto74672672" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jerryto74672672" height="30" width="40" /></a>
-<a href="https://instagram.com/lugxx86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lugxx86" height="30" width="40" /></a>
+<a href="https://twitter.com/cccudev target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cccudev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
